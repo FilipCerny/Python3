@@ -1,2 +1,2 @@
-PYTHON3 & Git TEACHING, please dont take it serious
+PYTHON3 & Git TEACHING, please don't take it serious
 =======
